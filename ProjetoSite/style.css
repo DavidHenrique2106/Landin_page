@@ -4,17 +4,20 @@
 
 body{
     margin: 0;
-    background-color: rgb(224, 224, 224);
 }
  
+.header{
+    position: fixed;
+}
+
 .topo{
-    background-color:lawngreen;
     padding: 10px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 
     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
      'Open Sans', 'Helvetica Neue', sans-serif;
      flex: 70%;
 }
+
 
 .menu{
     text-align: right;
@@ -31,5 +34,14 @@ body{
 }
 
 .menu a:hover{
-    color: white;
+    color: blue;
+}
+
+.intro-conteudo h1{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+     'Open Sans', 'Helvetica Neue', sans-serif;
+     flex: 70%;
+
 }
