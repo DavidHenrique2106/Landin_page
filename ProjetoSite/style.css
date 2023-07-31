@@ -7,7 +7,7 @@ body{
 }
  
 header{
-    padding: 40px;
+    padding: 60px;
 }
 
 .topo{
@@ -42,12 +42,14 @@ header{
     color: blue;
 }
 
-.intro-conteudo h1{
+.conteudo h1{
     text-align: center;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 
     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
      'Open Sans', 'Helvetica Neue', sans-serif;
      flex: 70%;
+     background-color: rgb(243, 243, 243);
+     padding: 50px;
 
 }
 
