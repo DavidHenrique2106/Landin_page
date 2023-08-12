@@ -7,7 +7,8 @@ body{
 }
  
 header{
-    padding: 60px;
+    padding: 48px;
+    position:fixed;
 }
 
 .topo{
@@ -16,10 +17,10 @@ header{
     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
     'Open Sans', 'Helvetica Neue', sans-serif;
     flex: 70%;
-    padding: 10px;
     position: fixed;
     top: 0;
     width: 100%;
+    
 }
 
 
