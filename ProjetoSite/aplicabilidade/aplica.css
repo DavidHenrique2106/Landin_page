@@ -31,3 +31,15 @@ header{
     top: -50px;
 
 }
+
+.menu a{
+    color: black;
+    margin-bottom: 0px;
+    margin-right: 60px;
+    text-decoration: none;
+
+}
+
+.menu a:hover{
+    color: purple;
+}
