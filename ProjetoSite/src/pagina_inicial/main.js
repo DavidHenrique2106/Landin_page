@@ -1,1 +1,1 @@
-alert("Teste JavaScript")
+window.alert("Olá")
