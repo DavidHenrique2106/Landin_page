@@ -14,12 +14,16 @@ header{
     position: fixed;
 }
 
+.logo h1{
+    color: white;
+}
+
 .topo{
     padding: -10px;
     padding-left: 20px;
     position: fixed;
     right: 0px;
-    background-color: rgb(189, 189, 189);
+    background-color: #00a2e4;
     top: 0;
     width: 100%;
 }
@@ -33,7 +37,7 @@ header{
 }
 
 .menu a{
-    color: black;
+    color: white;
     margin-bottom: 0px;
     margin-right: 60px;
     text-decoration: none;
@@ -41,7 +45,7 @@ header{
 }
 
 .menu a:hover{
-    color: rgb(209, 40, 209);
+    color: #ffc248;
 }
 
 .conteudo{
