@@ -24,7 +24,7 @@ header{
     padding-left: 20px;
     position: fixed;
     right: 0px;
-    background-color: #0b0b64;
+    background-color: #000624;
     top: 0;
     width: 100%;
 }
@@ -41,7 +41,7 @@ header{
     right: 657px;
     top: -15px;
     height: 4px;
-    background-color: #ffc248;
+    background-color: #ffb700;
 }
 
 .menu{
