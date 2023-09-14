@@ -24,7 +24,7 @@ header{
     padding-left: 20px;
     position: fixed;
     right: 0px;
-    background-color: #00a2e4;
+    background-color: #120a8f;
     top: 0;
     width: 100%;
 }
@@ -37,8 +37,8 @@ header{
 
 .linha1{
     position: relative;
-    width: 300px;
-    right: 610px;
+    width: 200px;
+    right: 650px;
     top: -15px;
     height: 4px;
     background-color: #ffc248;
