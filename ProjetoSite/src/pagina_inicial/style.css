@@ -10,12 +10,13 @@ body{
 }
  
 header{
-    padding: 48px;
+    padding: 28px;
     position: fixed;
 }
 
 .logo h1{
     color: white;
+    font-size: 25px;
 }
 
 .topo{
@@ -28,11 +29,25 @@ header{
     width: 100%;
 }
 
+.logo h5{
+    color: white;
+    position: relative;
+    top: -30px;
+}
+
+.linha1{
+    position: relative;
+    width: 300px;
+    right: 610px;
+    top: -15px;
+    height: 6px;
+    background-color: #ffc248;
+}
 
 .menu{
     text-align: right;
     position: relative;
-    top: -40px;
+    top: -90px;
 
 }
 
@@ -88,3 +103,4 @@ header{
 .by p{
     color: white;
 }
+
