@@ -38,7 +38,7 @@ header{
 .linha1{
     position: relative;
     width: 200px;
-    right: 650px;
+    right: 657px;
     top: -15px;
     height: 4px;
     background-color: #ffc248;
@@ -63,24 +63,6 @@ header{
     color: #ffc248;
 }
 
-.conteudo{
-    text-align: center;
-    flex: 70%;
-    padding: 50px;
-
-}
-
-.final{
-    background-color: black;
-    padding: 50px;
-    text-align: center;
-}
-
-.final h1{
-    color: white;
-
-}
-
 .link1 a{
     color: white;
     padding-left: 40px;
@@ -88,19 +70,5 @@ header{
 
 .link1 a:hover{
     color: purple;
-}
-
-.cookies a{
-    color: white;
-    padding-left: 60px;
-    text-decoration: none;
-}
-
-.cookies a:hover{
-    color: purple;
-}
-
-.by p{
-    color: white;
 }
 
