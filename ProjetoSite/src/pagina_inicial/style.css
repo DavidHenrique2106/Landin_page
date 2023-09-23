@@ -72,3 +72,15 @@ header{
     color: purple;
 }
 
+.logo-meio h1{
+position: relative;
+top: 200px;
+text-align: center;
+}
+
+.logo-meio h3{
+position: relative;
+top: 200px;
+text-align: center;
+left: 7px;
+}
