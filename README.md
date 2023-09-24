@@ -1,2 +1,2 @@
-# Projeto.Site
-Projeto para fazer um site em desenvolvimento pondo em prática meus conhecimento sobre HTML, CSS e JAVASCRIPT
+
+Projeto para fazer uma Landing page pondo em prática meus conhecimento sobre HTML, CSS e JAVASCRIPT
