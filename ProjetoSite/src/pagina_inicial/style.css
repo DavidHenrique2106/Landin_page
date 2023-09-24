@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family:'Courier New', Courier, monospace;
+    background-color: #f54952;
+}
+
+.topo{
+    position: relative;
+    padding: 20px;
+    background-color: #280659;
+}
+.topo a{
+    position: relative;
+    left:1000px;
+    padding-left: 30px;
+    text-decoration: none;
+    top:  -35px;
+    color: white;
+}
+
+.topo h1{
+    color: white;
+}
+
+.topo a:hover{
+    color: #f54952;
+}
